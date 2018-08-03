@@ -2,14 +2,14 @@
     [
         "/app/dxProject/force-app",
         {
-            "state": "u",
             "sourcePath": "/app/dxProject/force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 4096,
-            "modifiedTime": 1533302548542,
+            "modifiedTime": 1533303219371,
             "changeTime": 1533302548542,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "/app/dxProject/force-app/main",
         {
-            "state": "u",
             "sourcePath": "/app/dxProject/force-app/main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 4096,
-            "modifiedTime": 1533302548542,
+            "modifiedTime": 1533303219371,
             "changeTime": 1533302548542,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -37,24 +37,22 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 4096,
-            "modifiedTime": 1533302548622,
-            "changeTime": 1533302548622,
-            "contentHash": "d1783acf47fcb7ec23f15dbf710dcc85a0c3e0b5",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "modifiedTime": 1533303222899,
+            "changeTime": 1533303222899,
+            "contentHash": "5eea73c1eb4c8d6863aa6f3c10edaedce5b05d85"
         }
     ],
     [
         "/app/dxProject/force-app/main/default/aura",
         {
-            "state": "u",
             "sourcePath": "/app/dxProject/force-app/main/default/aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 4096,
             "modifiedTime": 1533302548542,
             "changeTime": 1533302548542,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -62,14 +60,14 @@
     [
         "/app/dxProject/AccountOperations",
         {
-            "state": "u",
             "sourcePath": "/app/dxProject/AccountOperations",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 4096,
-            "modifiedTime": 1533302550034,
+            "modifiedTime": 1533303219367,
             "changeTime": 1533302550102,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -77,14 +75,14 @@
     [
         "/app/dxProject/AccountOperations/main",
         {
-            "state": "u",
             "sourcePath": "/app/dxProject/AccountOperations/main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 4096,
-            "modifiedTime": 1533302550034,
+            "modifiedTime": 1533303219367,
             "changeTime": 1533302550034,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -92,14 +90,14 @@
     [
         "/app/dxProject/AccountOperations/main/default",
         {
-            "state": "u",
             "sourcePath": "/app/dxProject/AccountOperations/main/default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 4096,
-            "modifiedTime": 1533302550034,
+            "modifiedTime": 1533303219371,
             "changeTime": 1533302550034,
             "contentHash": "0aba7657459d4d76d6cf08b5e8d3ea7fb77d6fad",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -107,14 +105,14 @@
     [
         "/app/dxProject/AccountOperations/main/default/classes",
         {
-            "state": "u",
             "sourcePath": "/app/dxProject/AccountOperations/main/default/classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 4096,
-            "modifiedTime": 1533302550034,
+            "modifiedTime": 1533303219371,
             "changeTime": 1533302550034,
             "contentHash": "7ad20ba34ce08b477c90359d99cb9d42cc7f8f62",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -126,25 +124,23 @@
             "sourcePath": "/app/dxProject/AccountOperations/main/default/classes/AccountOperations.cls",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 166,
-            "modifiedTime": 1533302550034,
-            "changeTime": 1533302550034,
-            "contentHash": "0f49af8f78d2af18b590c70ee8cacba82e710161",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 185,
+            "modifiedTime": 1533303222899,
+            "changeTime": 1533303222899,
+            "contentHash": "a3cf57b99c3bee130fca1c1995a6abcf59aae2d5"
         }
     ],
     [
         "/app/dxProject/AccountOperations/main/default/classes/AccountOperations.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/app/dxProject/AccountOperations/main/default/classes/AccountOperations.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
-            "modifiedTime": 1533302550034,
+            "modifiedTime": 1533303219367,
             "changeTime": 1533302550034,
             "contentHash": "0bfc8bc49e53c8f0f6b207cf675766c0d6546ee5",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -152,14 +148,14 @@
     [
         "/app/dxProject/AccountOperations/main/default/classes/AccountOperationsTest.cls",
         {
-            "state": "u",
             "sourcePath": "/app/dxProject/AccountOperations/main/default/classes/AccountOperationsTest.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 491,
-            "modifiedTime": 1533302550034,
+            "modifiedTime": 1533303219367,
             "changeTime": 1533302550034,
             "contentHash": "f9c797e3a7fdb7fae88bc15fed355dc2df5f714f",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -167,14 +163,14 @@
     [
         "/app/dxProject/AccountOperations/main/default/classes/AccountOperationsTest.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/app/dxProject/AccountOperations/main/default/classes/AccountOperationsTest.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
-            "modifiedTime": 1533302550034,
+            "modifiedTime": 1533303219371,
             "changeTime": 1533302550034,
             "contentHash": "0bfc8bc49e53c8f0f6b207cf675766c0d6546ee5",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -182,14 +178,14 @@
     [
         "/app/dxProject/AccountOperations/main/default/triggers",
         {
-            "state": "u",
             "sourcePath": "/app/dxProject/AccountOperations/main/default/triggers",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 4096,
-            "modifiedTime": 1533302550034,
+            "modifiedTime": 1533303219371,
             "changeTime": 1533302550034,
             "contentHash": "118e0c475e1d33ea2ee9e107e7883fc350f7cf27",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -197,14 +193,14 @@
     [
         "/app/dxProject/AccountOperations/main/default/triggers/AccountDefaultDescription.trigger",
         {
-            "state": "u",
             "sourcePath": "/app/dxProject/AccountOperations/main/default/triggers/AccountDefaultDescription.trigger",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 164,
-            "modifiedTime": 1533302550034,
+            "modifiedTime": 1533303219371,
             "changeTime": 1533302550034,
             "contentHash": "042c06135788eec88db52d5867cb13752ce6f685",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -212,14 +208,14 @@
     [
         "/app/dxProject/AccountOperations/main/default/triggers/AccountDefaultDescription.trigger-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/app/dxProject/AccountOperations/main/default/triggers/AccountDefaultDescription.trigger-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 178,
-            "modifiedTime": 1533302550034,
+            "modifiedTime": 1533303219371,
             "changeTime": 1533302550034,
             "contentHash": "0da86305758ba96f2ae282a7bdb7a347584afb17",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -227,16 +223,55 @@
     [
         "/app/dxProject",
         {
-            "state": "u",
             "sourcePath": "/app/dxProject",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 4096,
             "modifiedTime": 1533302553547,
             "changeTime": 1533302553547,
             "contentHash": "b5ea9815f1403eb15cb88589856e1ca663d395b6",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": true,
             "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/force-app/main/default/classes/AccountOperations2.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/force-app/main/default/classes/AccountOperations2.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1533303222899,
+            "changeTime": 1533303222899,
+            "contentHash": "0bfc8bc49e53c8f0f6b207cf675766c0d6546ee5"
+        }
+    ],
+    [
+        "/app/dxProject/force-app/main/default/classes/AccountOperations2.cls",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/force-app/main/default/classes/AccountOperations2.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 186,
+            "modifiedTime": 1533303222903,
+            "changeTime": 1533303222903,
+            "contentHash": "e576bddece73adb67a8711ac409910d3ea29ccad"
+        }
+    ],
+    [
+        "/app/dxProject/force-app/main/default/classes",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1533303222903,
+            "changeTime": 1533303222903,
+            "contentHash": "2003d01554129c60fe38b08be80a1be3445851ad"
         }
     ]
 ]
